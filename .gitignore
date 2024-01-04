@@ -1,2 +1,9 @@
 *.gem
 examples/*.jpeg
+.vscode/
+.vscode-test/
+.git/
+.gitignore
+.gitmodules
+.gitattributes
+.gitconfig
