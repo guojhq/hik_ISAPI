@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.summary = 'Ruby Hikvision ISAPI Interface'
   s.authors = ['guopipi']
   s.files = Dir['{exe,lib}/**/*.rb']
-  s.homepage = 'https://github.com/jvmf1/hikvision'
+  s.homepage = 'https://github.com/guojhq/hik_ISAPI.git'
   s.license = 'MIT'
 
   s.add_dependency 'gli', '~> 2.21'
