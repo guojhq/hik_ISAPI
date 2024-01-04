@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hikvision (0.0.1)
+    hik_ISAPI (0.0.1)
       gli (~> 2.21)
       httparty (~> 0.21)
       nokogiri (~> 1.14)
@@ -9,24 +9,24 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    gli (2.21.0)
+    gli (2.21.1)
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    mini_mime (1.1.2)
+    mini_mime (1.1.5)
     multi_xml (0.6.0)
-    nokogiri (1.14.1-x64-mingw32)
+    nokogiri (1.16.0-x64-mingw32)
       racc (~> 1.4)
-    nokogiri (1.14.1-x86_64-linux)
+    nokogiri (1.16.0-x86_64-linux)
       racc (~> 1.4)
-    racc (1.6.2)
+    racc (1.7.3)
 
 PLATFORMS
   x64-mingw32
   x86_64-linux
 
 DEPENDENCIES
-  hikvision!
+  hik_ISAPI!
 
 BUNDLED WITH
    2.3.26

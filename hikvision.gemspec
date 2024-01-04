@@ -1,7 +1,7 @@
 require_relative 'lib/hikvision/version'
 
 Gem::Specification.new do |s|
-  s.name = 'hikvision'
+  s.name = 'hik_ISAPI'
   s.bindir = 'exe'
   s.executables << 'hikvision'
   s.version = Hikvision::VERSION
